@@ -1,5 +1,7 @@
 import requests as req
+import pycrptodome
 from time import sleep
+from query import crypto
 
 print("\t\n\nTelegram : @raid_store / @soul_kings")
 print("\tProxy type :\n\t [ 1 ] HTTP/S\n\t [ 2 ] SOCKS4\n\t [ 3 ] SOCKS5")
